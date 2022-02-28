@@ -4,7 +4,7 @@ from time import strftime
 import datetime
 from datetime import timedelta
 
-api_key = 'e37f15b6cde3b33cdbd9cf309ffcab5a'
+api_key = '???????????????'
 
 user_input = input("Enter city: ")
 
